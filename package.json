@@ -1,7 +1,27 @@
 {
   "name": "dheeraj-portfolio",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "private": false,
+  "description": "Dheeraj Ingle - Associate Product Manager Portfolio | Google APM 2026 Candidate",
+  "homepage": "https://dheeraj-portfolio.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dheerajtechie/Product-Portfolio-.git"
+  },
+  "keywords": [
+    "portfolio",
+    "product-manager",
+    "google-apm",
+    "nextjs",
+    "typescript",
+    "tailwindcss",
+    "vercel"
+  ],
+  "author": {
+    "name": "Dheeraj Ingle",
+    "email": "dheerajingle159@gmail.com",
+    "url": "https://linkedin.com/in/dheeraj-ingle"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
